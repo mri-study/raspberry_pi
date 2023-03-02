@@ -1,10 +1,7 @@
 ﻿# raspberry_pi
 
 
-
-
-
-# IIC display
+### IIC Display
 
 0.96" display SS1306
 
